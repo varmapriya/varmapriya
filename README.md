@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst / Data Scientist role.
 -  🌱 I’m currently learning Data Scientist Course at ETLHive
 - 💞️ I’m looking to collaborate on various Projects which leads me to reach out a best role for my domain.
-- 📫 How to reach me - priyavarmaaa5@gmail.com or 9921065824
+- 📫 How to reach me - priyavarmaaa5@gmail.com
 - 😄 Pronouns: She
 
 
