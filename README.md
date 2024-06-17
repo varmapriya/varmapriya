@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Miss.Priya Varma.
-- 👀 I’m interested in Data Analyst / Data Scientist role.
--  🌱 I’m currently learning Data Scientist Course at ETLHive
+- 👋 Hi, I’m Miss.Priya Narottam Varma.
+- 👀 Certified Data Scientist || Certified Data Analyst.
+- 🌱 I'm ready to contribute myself for Data Scientist / Data Analyst position efficiently.
 - 💞️ I’m looking to collaborate on various Projects which leads me to reach out a best role for my domain.
 - 📫 How to reach me - priyavarmaaa5@gmail.com
-- 😄 Pronouns: She
+- 😄 Pronouns: She/Her 
 
 
 <!---
